@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-![Upani's GitHub stats](https://github-readme-stats.vercel.app/api?username=UpaniAyanga&show_icons=true&theme=radical)  [![GitHub Streak](https://streak-stats.demolab.com?user=UpaniAyanga&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=UpaniAyanga&theme=radical)](https://git.io/streak-stats)
 
 ## 📫 Contact Me
 - Email: [upaniayanga12@gmail.com](mailto:upaniayanga12@gmail.com)
