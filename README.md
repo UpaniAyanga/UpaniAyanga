@@ -19,4 +19,4 @@
 
 ## 📫 Contact Me
 - Email: [upaniayanga12@gmail.com](mailto:upaniayanga12@gmail.com)
-- LinkedIn: [linkedin.com/in/upani-ayanga](https://www.linkedin.com/in/upani-l/)
+- LinkedIn: [linkedin.com/in/upani-l](https://www.linkedin.com/in/upani-l/)
