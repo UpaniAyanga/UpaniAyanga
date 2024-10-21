@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello, I'm Upani Ayanga! 👋
 
-<!--
-**UpaniAyanga/UpaniAyanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Computer Science student at IIT (affiliated with University of Westminster).  
+💼 Associate Software Engineer at Xgen Group Pvt Ltd.  
+📚 Interested in Web Development & Data Science.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Upani's GitHub stats](https://github-readme-stats.vercel.app/api?username=upani-ayanga&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=upani-ayanga&theme=radical)](https://git.io/streak-stats)
+
+## 📫 Contact Me
+- Email: [upaniayanga12@gmail.com](mailto:upani.2022@iit.ac.lk)
+- LinkedIn: [linkedin.com/in/upani-ayanga](https://www.linkedin.com/in/upani-ayanga/)
