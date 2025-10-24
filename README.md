@@ -2,7 +2,7 @@
 
 🎓 Fourth-year Computer Science student at IIT (affiliated with University of Westminster).  
 💼 Associate Software Engineer at Xgen Group Pvt Ltd.  
-📚 Interested in Web Development & Data Science.
+📚 Interested in Full Stack Web Development.
 
 ## 🛠 Tech Stack
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
