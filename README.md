@@ -1,7 +1,7 @@
 ## Hello, I'm Upani Ayanga! 👋
 
 🎓 Fourth-year Computer Science student at IIT (affiliated with University of Westminster).  
-💼 Associate Software Engineer at Xgen Group Pvt Ltd.  
+💼 Software Engineer.
 📚 Interested in Full Stack Web Development.
 
 ## 🛠 Tech Stack
