@@ -1,8 +1,8 @@
 ## Hello, I'm Upani Ayanga! 👋
 
-🎓 Fourth-year Computer Science student at IIT (affiliated with University of Westminster).  
-💼 Software Engineer.
-📚 Interested in Full Stack Web Development.
+🎓 BSc(hons) in Computer Science
+💼 I manage software... and sometimes build it
+
 
 ## 🛠 Tech Stack
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
